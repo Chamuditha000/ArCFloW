@@ -37,8 +37,10 @@ Project Structure
 ```bash
 ArcFlow/
 │── trajectory_interpolation.py  # Main script for physics and interpolation
-│── README.md                    # Project documentation
-│── requirements.txt              # Dependencies
+│── README.md                    # Project Introduction
+│── Theoratical concepts.pdf     # Theory
+│── code and results.pdf         # Results 
+│── requirements.txt             # Dependencies
 ```
 Future Improvements
 
